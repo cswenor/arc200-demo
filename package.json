@@ -1,0 +1,16 @@
+{
+  "name": "via-tip-bot",
+  "version": "1.0.0",
+  "description": "A demo of how to build a tipbot with an ARC200.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "algosdk": "^2.7.0",
+    "arc200js": "^1.2.19",
+    "dotenv": "^16.3.1"
+  }
+}
